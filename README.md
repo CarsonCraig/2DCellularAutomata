@@ -3,6 +3,7 @@
 SPACE to Start
 
 F - Toggle Fullscreen Mode
+
 SPACE - toggle between menu and games screens
 
 
