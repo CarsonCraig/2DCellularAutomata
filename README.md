@@ -13,13 +13,16 @@ Menu Screen:
 
 	When grey is selected:
 		-Use mouse wheel to change the colour mappings.
+		
 		-On the right side select the size of grid.
 
 	When a colour other than grey is selected:
-		-Change the selected colour's neighbourhood by hovering the mouse over
-		a numbered square and selecting the number on the keyboard you wish to switch it to.
-		-On the right side change the colour painted by left and right mouse 
-		clicks by using the respective mouse button. 
+		-Change the selected colour's neighbourhood by hovering the mouse over a numbered square and selecting
+		the number on the keyboard you wish to switch it to.
+		
+		-On the right side change the colour painted by left and right mouse clicks by using the respective 
+		mouse button. 
+		
 		-On the top right select the brush radius.
 
 
