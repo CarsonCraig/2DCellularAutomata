@@ -1,13 +1,17 @@
 #2D Cellular Automata Controls:
-
+ 
+&nbsp;
+ 
 SPACE to Start
-
+ 
+&nbsp;
+ 
 F - Toggle Fullscreen Mode
 
 SPACE - toggle between menu and games screens
 
-
-
+&nbsp;
+ 
 Menu Screen:
 
 	Click the each of the seven colors on the left side of the screen to navigate the menu.
@@ -26,7 +30,8 @@ Menu Screen:
 		
 		-On the top right select the brush radius.
 
-
+ 
+&nbsp;
 
 Game Screen:
 
