@@ -26,9 +26,9 @@ Click the each of the seven colors on the left side of the screen to navigate th
 
 When grey is selected:
 
-	Use mouse wheel to change the colour mappings.
+	-Use mouse wheel to change the colour mappings.
 
-	On the right side select the size of grid.
+	-On the right side select the size of grid.
 
 &nbsp;
 
