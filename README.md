@@ -16,7 +16,7 @@ SPACE - toggle between menu and games screens
 
 &nbsp;
  
-Menu Screen:
+##Menu Screen
 
 	Click the each of the seven colors on the left side of the screen to navigate the menu.
 
@@ -37,25 +37,20 @@ Menu Screen:
  
 &nbsp;
 
-Game Screen:
+##Game Screen
 
-	G - Toggle Grid
-	V - Toggle V-sync
-
-
-
-	LEFT CLICK - Paint grid using the left mouse button (Using colours selected on the menu as "Left")
-	RIGHT CLICK - Paint grid using the right mouse button (Using colours selected on the menu as "Right")
-
-	LEFT ARROW- Create a random initial condition (Using colours selected on the menu as "Left")
-	RIGHT ARROW - Create a random initial condition (Using colours selected on the menu as "Right")
-
-	BACKSPACE - Clear automaton (Set to black screen)
+	|G - Toggle Grid
+	|V - Toggle V-sync
 
 
-
-	MOUSE WHEEL FORWARD - Move To Next State (Slow)
-	MOUSE WHEEL BACKWARDS - Rewind to Previous State (Slow)
-
-	UP ARROW - Move To Next State (Fast)
-	DOWN ARROW - Rewind to Previous State (Fast)
+	|Control|Purpose|
+	|:-----:|:-----:|
+	|LEFT CLICK | Paint grid using the left mouse button (Using colours selected on the menu as "Left")|
+	|RIGHT CLICK | Paint grid using the right mouse button (Using colours selected on the menu as "Right")|
+	|LEFT ARROW | Create a random initial condition (Using colours selected on the menu as "Left")|
+	|RIGHT ARROW | Create a random initial condition (Using colours selected on the menu as "Right")|
+	|BACKSPACE | Clear automaton (Set to black screen)|
+	|MOUSE WHEEL FORWARD | Move To Next State (Slow)|
+	|MOUSE WHEEL BACKWARDS | Rewind to Previous State (Slow)|
+	|UP ARROW | Move To Next State (Fast)|
+	|DOWN ARROW | Rewind to Previous State (Fast)|
