@@ -18,7 +18,11 @@ SPACE - toggle between menu and games screens
  
 ####Menu Screen
 
+&nbsp;
+
 Click the each of the seven colors on the left side of the screen to navigate the menu.
+
+&nbsp;
 
 When grey is selected:
 
