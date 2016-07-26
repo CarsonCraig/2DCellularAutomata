@@ -1,4 +1,4 @@
-#2D Cellular Automata Controls:
+#Cellular Automata Controls:
 
 &nbsp;
 
