@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Download an Executable JAR: [carsoncraig.me/projects](http://carsoncraig.me/projects)
+Click [here](http://carsoncraig.me/jar/CellularAutomata.jar) to download an executable JAR.
 
 &nbsp;
  
