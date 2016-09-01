@@ -25,6 +25,8 @@ Click the each of the seven colors on the left side of the screen to navigate th
 
 When grey is selected:
 
+![menu1](menu1.jpg)
+
 	-Use mouse wheel to change the colour mappings.
 
 	-On the right side select the size of grid.
@@ -32,6 +34,8 @@ When grey is selected:
 &nbsp;
 
 When a colour other than grey is selected:
+
+![menu2](menu2.jpg)
 
 	-Change the selected colour's neighbourhood by hovering the mouse over a numbered square and selecting
 	the number on the keyboard you wish to switch it to.
