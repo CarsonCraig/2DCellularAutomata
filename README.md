@@ -49,8 +49,7 @@ When a colour other than grey is selected:
 
 ###Game Screen
 
-
-
+![game1](game1.jpg)
 
 |Control|Purpose|
 |:-----:|:-----:|
