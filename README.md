@@ -1,4 +1,4 @@
-#Cellular Automata Controls:
+# Cellular Automata Controls:
 
 &nbsp;
 
@@ -16,7 +16,7 @@ SPACE - toggle between menu and games screens
 
 &nbsp;
  
-###Menu Screen
+### Menu Screen
 
 
 Click the each of the seven colors on the left side of the screen to navigate the menu.
@@ -47,7 +47,7 @@ When a colour other than grey is selected:
 
 &nbsp;
 
-###Game Screen
+### Game Screen
 
 ![game1](game1.jpg)
 
